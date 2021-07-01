@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "964e16a6082202b1a3958680e245930a",
+  "assets/AssetManifest.json": "3ec3710699b00587363405053ba38b01",
 "assets/assets/icons/Documents.svg": "0d66436fde3818811c82319665ef91fd",
 "assets/assets/icons/doc_file.svg": "c6c3abe38f2b4e22ab33399b26966b1f",
 "assets/assets/icons/drop_box.svg": "d427e188a7aee4612446d0e9d26e76f1",
-"assets/assets/icons/excle_file.svg": "9986607c30659e3d222f9908141884f9",
+"assets/assets/icons/excl_file.svg": "9986607c30659e3d222f9908141884f9",
 "assets/assets/icons/Figma_file.svg": "90224db6835092a278153e0f60e8c203",
 "assets/assets/icons/folder.svg": "8c11f522cd36f0cbd9c02eb2b689cbb9",
 "assets/assets/icons/google_drive.svg": "a4cd4325c28cee54264a4942fcf6ef48",
@@ -37,8 +37,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "473e89c5d5f3ce9a7bac72b5ba1b5ebc",
-"/": "473e89c5d5f3ce9a7bac72b5ba1b5ebc",
+"index.html": "9fb02fb91e2e189046aa61a2b229e632",
+"/": "9fb02fb91e2e189046aa61a2b229e632",
 "main.dart.js": "02118ada673e68e7c5eff0a2a1263d56",
 "manifest.json": "b563d7ee79241dbb0c7886525245fa05",
 "version.json": "60ccf9d1f887d6364bbb23a21f5f7754"
